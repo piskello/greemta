@@ -1,6 +1,6 @@
 ---
-layout: page
-title: get Inspired
+layout: post
+title: get inspired
 image: suggestin-1.jpg
 ---
 
