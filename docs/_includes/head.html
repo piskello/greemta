@@ -28,8 +28,12 @@
   </script>
 
 <script>
-  function resizeIframe(obj) {
-    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+  // Resize iframe to full height
+  function resizeIframe(height)
+  {
+    // "+60" is a general rule of thumb to allow for differences in
+    // IE & and FF height reporting, can be adjusted as required..
+    document.getElementById('submissionform').height = parseInt(height)+60;
   }
 </script>
 
