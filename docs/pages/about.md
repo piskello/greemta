@@ -5,4 +5,4 @@ title: About
 
 greemta is a project promoted by EIT Climate-KIC's Cross-KIC Sustainable Cities program togheter with the municipality of Madrid.
 
-![](../assets/img/logos/climate_kic.jpg) ![](../assets/img/logos/eit_digital.jpg) ![](../assets/img/logos/fbk.jpg) ![](../assets/img/logos/logo-madrid.png)
+<img src="../assets/img/logos/climate_kic.jpg"/><img src="../assets/img/logos/eit_digital.jpg"/><img src="../assets/img/logos/fbk.jpg"/><img src="../assets/img/logos/logo-madrid.png"/>
