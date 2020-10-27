@@ -11,10 +11,11 @@ In mid-December we will decide the winners
 ## Who can partecipate
 <small>The rules are based on Article 206 and 207 of the financial regulation. The competition will respect the principles of transparency and equal treatment.</small>
 
-    The greemta challenge is open worldwide to anyone who is interested in creating a profit or non-profit (social) business model through data exploration and/or in creating open data prototype products based on open and public data.
-    A team can be composed of one or more individuals (up to 4), one or more companies or one or more other legal entities.
+The greemta challenge is open worldwide to anyone who is interested in creating a profit or non-profit (social) business model through data exploration and/or in creating open data prototype products based on open and public data.
 
-	The greemta challenge is not open to staff working in partnering organisations.
+A team can be composed of one or more individuals (up to 4), one or more companies or one or more other legal entities.
+
+The greemta challenge is not open to staff working in partnering organisations.
 
 ## Evaluation process
 The evaluation will be made by a group of experts selected by us.
