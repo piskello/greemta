@@ -7,12 +7,10 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'what is', folder: 'pages', file: 'whatis.html'}
-- {name: 'challeges', folder: 'pages', file: 'challenge.html'}
+- {name: 'challenges', folder: 'pages', file: 'challenge.html'}
 - {name: 'rules', folder: 'pages', file: 'rules.html'}
 - {name: 'data', folder: 'pages', file: 'datasets.html'}
 - {name: 'prizes', folder: 'pages', file: 'prizes.html'}
-- {name: 'inspired', folder: 'pages', file: 'getinspired.html'}
 - {name: 'partecipate', folder: 'pages', file: 'partecipate.html'}
 - {name: 'about', folder: 'pages', file: 'about.html'}
 - {name: 'contact', folder: 'pages', file: 'contact.html'}
