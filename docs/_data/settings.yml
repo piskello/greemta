@@ -11,7 +11,6 @@ menu:
 - {name: 'rules', folder: 'pages', file: 'rules.html'}
 - {name: 'data', folder: 'pages', file: 'datasets.html'}
 - {name: 'prizes', folder: 'pages', file: 'prizes.html'}
-- {name: 'partecipate', folder: 'pages', file: 'partecipate.html'}
 - {name: 'about', folder: 'pages', file: 'about.html'}
 - {name: 'contact', folder: 'pages', file: 'contact.html'}
 
