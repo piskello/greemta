@@ -4,7 +4,7 @@ title: rules
 image: rules-1.jpg
 ---
 ## Important dates
-you can submit your proposal from now until the end of December
+You can submit your proposal from now until the end of December
 
 In mid-December we will decide the winners
 
