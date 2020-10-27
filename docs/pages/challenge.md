@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: challenges
 image: madrid-1.jpg
 ---
