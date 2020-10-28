@@ -4,39 +4,28 @@ title: rules
 image: rules-1.jpg
 ---
 ## Important dates
-You can submit your proposal from now until the end of December
-
-In mid-December we will decide the winners
+You can submit your work by xx/xx/xxxx
 
 ## Who can partecipate
-<small>The rules are based on Article 206 and 207 of the financial regulation. The competition will respect the principles of transparency and equal treatment.</small>
+The GreeMta challenge is open worldwide to anyone who is interested in creating and submitting a work. 
 
-The greemta challenge is open worldwide to anyone who is interested in creating a profit or non-profit (social) business model through data exploration and/or in creating open data prototype products based on open and public data.
-
-A team can be composed of one or more individuals (up to 4), one or more companies or one or more other legal entities.
-
-The greemta challenge is not open to staff working in partnering organisations.
+A team can be composed of one or more individuals (up to 4). 
 
 ## Evaluation process
-The evaluation will be made by a group of experts selected by us.
+There will be a jury committee for selecting the best works. 
 
-The names of the jury will be presented towards the end of November
-
+The judging criterias are the following ones:
+* How much does the submitted work fit the challenges of the competition?
+* How interesting and insightful is the submitted work?
+* How much the submitted work might be used by the Municipality of Madrid in order to improve their management of the green?
+* How much is the submitted work novel and original?
+* How much of the work is based on data (considering also quantity of used data, level of interest of the used data and sound methodology for data management)?
 
 ## Prizes
+A jury will select the 8 best works. The first prize is of 4000 Euros. See [the prizes](pages/prizes.html).
 
-The first three winners will be given a cash prize.
+## Complete rules
 
-However, there are special prizes in amazon vouchers for 200 euros.
-
-We plan to reward at least 15 projects !!!
-
-## Additional information
-
-The site is constantly updated
-
-We recommend subscribing to the site feed and following us on social channels
-
-[Download the rules in pdf!](rules.pdf)
+In this page we summarized the main rules. However you must read and agree with the complete rules that you can find in this document which contains all the legal details ["Rules of competition"](rules.pdf).
 
 
