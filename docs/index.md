@@ -8,7 +8,7 @@ title: Help improving how Madrid manage its green spaces
 
 GreeMta is a challenge based on data. 
 
-You are invited to **develop applications, interactive websites, visualizations and infographics** based on data about trees and green in Madrid able to offer insights about how Madrid could improve their management of its green value.
+You are invited to **develop applications, interactive websites, visualizations and infographics** based on data about trees and green in Madrid but also other indicators. The goal of the project is to offer insights about how the city of Madrid could improve the management of its green value.
 
 A jury will select the 8 best works and award their creators the following prizes:
 * 1st - 4000 Euros
