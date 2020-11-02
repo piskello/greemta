@@ -16,6 +16,8 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "GREEMTA"
 description:	       "Green Madrid sustainability challenge"
+motto:				   "grinta is an italian word to define the passion and perseverance to achieve long-term goals."
+"
 author:              ""
 
 url_site: https://challenge.greemta.eu

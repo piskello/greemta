@@ -4,7 +4,11 @@ title: Help improving how Madrid manage its green spaces
 
 ---
 
+![](../assets/img/logo_greemta.svg)
+
 # AND WIN PRIZES! First Prize 4.000 Euros!
+
+
 
 GreeMta is a challenge based on data. 
 
