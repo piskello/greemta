@@ -6,7 +6,9 @@ title: Help improving how Madrid manage its green spaces
 
 ![](../assets/img/logo_greemta.svg)
 
-# AND WIN PRIZES! First Prize 4.000 Euros!
+# AND WIN PRIZES! 
+
+<i class="fas fa-trophy"></i> First Prize 4.000 Euros!
 
 
 
