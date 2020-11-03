@@ -1,31 +1,16 @@
 ---
-layout: page 
-title: Help improving how Madrid manage its green spaces
-
+title: Greemta Challenge
+layout: home
+description: Help improving how Madrid manage its green spaces
+intro_image: "images/madrid-1.jpg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
 ---
 
-![](../assets/img/logo_greemta.svg)
+# A GREEN DATA CHALLENGE
+*Help improving how **Madrid** manage its green spaces.*
 
-# AND WIN PRIZES! 
+## First Prize 4.000 Euros!
+... and many other for a total of **14.000 &euro;** to distribute between 8 winners.
 
-<i class="fas fa-trophy"></i> First Prize 4.000 Euros!
-
-
-
-GreeMta is a challenge based on data. 
-
-You are invited to **develop applications, interactive websites, visualizations and infographics** based on data about trees and green in Madrid but also other indicators. The goal of the project is to offer insights about how the city of Madrid could improve the management of its green value.
-
-A jury will select the 8 best works and award their creators the following prizes:
-* 1st - 4000 Euros
-* 2nd - 2000 Euros
-* 3rd - 1000 Euros
-* 4th - 200 Euros
-* 5th - 200 Euros
-* 6th - 200 Euros
-* 7th - 200 Euros
-* 8th - 200 Euros
-
-You shall submit your work by xx/xx/xxxx (see [rules](pages/rules.html))
-
-![](../assets/img/green_value.png)
+You are invited to develop interactive websites, analysis, visualizations and infographics based on data about the social adn economic values of trees and green in Madrid.

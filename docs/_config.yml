@@ -1,26 +1,39 @@
-# Site Build Settings
+baseurl: '/greemta'
+exclude: ['README.md']
+permalink: pretty
+title: 'Greemta'
 
-# jekyll-paginate configuration
-paginate:            5
+google_analytics_id: ""
+homepage:
+  show_call_box: false
+  tell_me_more: true
+logo:
+  mobile: "images/logo/logo-mobile.svg"
+  desktop: "images/logo/logo.svg"
+  desktop_height: "20px"
+footer:
+  copyright_text: 'CC-BY'
 
-# Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+seo:
+  meta_og_title: "Greemta"
+  meta_og_type: "website"
+  meta_og_url: "https://greemta.eu"
+  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
+  meta_og_description: "Greemta challenge"
+  meta_twitter_card: "summary"
+  meta_twitter_site: "@greemta"
+  meta_twitter_creator: "@greemta"
+
+collections:
+  contents:
+    output: true
+  team:
+    output: true
 
 sass:
-  sass_dir: assets/css
-  style: :nested
+  indentWidth: 4
+  style: compact # possible values: nested expanded compact compressed
+  precision: 10
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "GREEMTA"
-description:	       "Green Madrid sustainability challenge"
-motto:				   "grinta is an italian word to define the passion and perseverance to achieve long-term goals."
-author:              ""
-
-url_site: https://challenge.greemta.eu
-
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+plugins:
+  - jekyll-environment-variables
