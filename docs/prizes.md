@@ -3,16 +3,15 @@ title: Prizes
 layout: page
 description: The prizes
 ---
-A jury will select the 8 best works and award their creators the following prizes:
+Eight works will be selected by the jury and their teams will each receive a prize.<br/>
+The total award fund for the competition amounts to 8000 Euros and will be split in the following order:
+<ul>
+<li>The first prize will be 4000 Euros.</li>
+<li>The second prize will be 2000 Euros.</li>
+<li>The third prize will be 1000 Euros.</li>
+<li>The remaining 5 prizes will be a 200 Euros Amazon Gift Card.</li>
+</ul>
 
-1st - 4.000 &euro;
-
-2nd - 2.000 &euro;
-
-3rd - 1.000 &euro;
-
-
-and Amazon gift cards (200 &euro;) for the our other five finalsts 
-
-
-Note:<br/>for the Amazon gift card, the winning team will be contacted by GreeMta staff in order to choose in which Amazon website they prefer to receive their gift card (e.g. amazon.es, amazon.it, amazon.com, etc).
+<p style="font-size: xx-small">
+note:<br/>A participant cannot win two or more prizes. If the same applicant results in two winning teams, the smaller prize will not be awarded to that team.
+</p>
