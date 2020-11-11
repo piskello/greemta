@@ -10,7 +10,7 @@ intro_image_hide_on_mobile: true
 # A GREEN DATA CHALLENGE
 *Help improving how **Madrid** manage its green spaces.*
 
-## First Prize 4.000 Euros!
-... and many other for a total of **8.000 &euro;** to distribute between 8 winners.
+## And compete to WIN the first prize of 4.000 EUROS!
+There are prizes for **8.000 &euro;** that will be awarded to 8 teams.
 
-You are invited to develop web application, interactive data analyses, visualizations, infographics based on data about the social and economic values of trees and green in Madrid.
+You are invited to develop web application, interactive data analyses, visualizations, infographics based on data about the social and economic values of trees and green in Madrid. 
