@@ -13,7 +13,7 @@ The total award fund for the competition amounts to 8000 Euros and will be split
 </ul>
 
 <p style="font-size: xx-small">
-Note: a participant cannot win two or more prizes. If the same applicant results in two winning teams, the smaller prize will not be awarded to that team.
+Note: a person cannot win two or more prizes. If the same person results in two winning teams, the smaller prize will not be awarded to that team. So the suggestion is that if you plan to participate with more than our submission, you do it with the same team.
 </p>
 
 See all details in the [Rules](https://challenge.greemta.eu/rules/)
