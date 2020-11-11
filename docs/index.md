@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 ---
 
 # A GREEN DATA CHALLENGE
-*Help improving how **Madrid** manage its green spaces.
+Help improving how **Madrid** manage its green spaces.
 
 ## And compete to WIN the first prize of 4.000 EUROS!
 There are prizes for **8.000 &euro;** that will be awarded to 8 teams. See all [the prizes](https://challenge.greemta.eu/prizes/).
