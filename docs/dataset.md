@@ -4,14 +4,12 @@ layout: page
 description: Dataset to use
 ---
 
-The municipality of Madrid offers a lot of data to start from and, by visiting the [open data portal](https://datos.madrid.es/portal/site/egob/), you can find lots of datasets.
+The data competition is about green and Madrid so we have prepared some datasets for you to start with. However you can and are invited to use more and different datasets if you think they will make your work more interesting.
 
-Our focus is, in particular, on green and therefore we ask you to include at least one of these datasets:
+We have prepared the following datasets:
 * [trees](trees)
 * [green areas](green areas)
 
-## Important note:
-the data is released under a CC-BY license.<br/>
-In some cases the dataset doesn't yet cover the entire territory of Madrid, but it is more than enough for our purposes.
-<br/>
-Thank you!
+Some pointers to other resources where you might find more datasets:
+* The [open data portal of Madrid](https://datos.madrid.es/portal/site/egob/) (in Spanish, "Portal de datos abiertos del Ayuntamiento de Madrid").
+* [Map of the trees of Madrid](http://www-2.munimadrid.es/DGPVE_WUAUA/welcome.do) (in Spanish, "Un alcorque, un árbol. Madrid más verde"). It displays on a map data very similar to the dataset of trees that we shared above.
