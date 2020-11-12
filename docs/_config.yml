@@ -12,7 +12,7 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "20px"
 footer:
-  copyright_text: 'CC-BY'
+  copyright_text: 'Free Jekyll theme by www.zerostatic.io'
 
 seo:
   meta_og_title: "Greemta"
