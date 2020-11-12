@@ -30,4 +30,4 @@ A jury will select the 8 best works. The first prize is of 4000 Euros. See [the 
 
 ## Complete rules
 
-In this page we summarized the main rules. However, when you submit, you must read and agree with the complete rules. You can find the complete rules of competition in this document which contains all the legal details ["Rules of competition"](rules.pdf). 
+In this page we summarized the main rules. However, when you submit, you must read and agree with the complete rules. You can find the complete rules of competition in this document which contains all the legal details ["Rules of competition"](https://challenge.greemta.eu/GreeMta_Rules_of_Competition.pdf). 
