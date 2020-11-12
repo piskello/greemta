@@ -7,8 +7,9 @@ description: Datasets
 The data competition is about green and Madrid so we have prepared some datasets for you to start with. However you can and are invited to use more and different datasets if you think they will make your work more interesting.
 
 We have prepared the following datasets:
-* TO_BE_DONE! [trees](trees)
-* TO_BE_DONE! [green areas](green areas)
+* [trees](trees)
+* [green areas](greenareas)
+* [administrative divisions of the city](administrativeunits)
 * ADD_MORE!
 
 Some pointers to other resources where you might find more datasets or inspirations:
