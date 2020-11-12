@@ -1,8 +1,7 @@
 ---
 title: Rules
-layout: home
+layout: page
 description: Rules of competition
-intro_image: "images/rules.jpg"
 ---
 
 You are invited to submit web applications, interactive data analyses, visualizations, infographics based on data about trees and green in Madrid but possibly also other indicators and data.
