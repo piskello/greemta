@@ -4,12 +4,12 @@ layout: page
 description: The prizes
 ---
 Eight works will be selected by the jury and their teams will each receive a prize.<br/>
-The total award fund for the competition amounts to 8000 &euro; and will be split in the following way:
+The total award fund for the competition amounts to 8000&euro; and will be split in the following way:
 <ul>
-<li>The first prize will be 4000 &euro;.</li>
-<li>The second prize will be 2000 &euro;.</li>
-<li>The third prize will be 1000 &euro;.</li>
-<li>The remaining 5 prizes will be a 200 &euro; Amazon Gift Card.</li>
+<li>The first prize will be 4000&euro;</li>
+<li>The second prize will be 2000&euro;</li>
+<li>The third prize will be 1000&euro;</li>
+<li>The remaining 5 prizes will be a 200&euro; Amazon Gift Card.</li>
 </ul>
 
 <p style="font-size: x-small">
