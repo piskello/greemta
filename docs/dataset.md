@@ -12,6 +12,8 @@ We have prepared the following datasets:
 * [administrative divisions of the city](administrativeunits)
 * ADD_MORE!
 
+TODO: Specify very well the data licenses here!!!
+
 Some pointers to other resources where you might find more datasets or inspirations:
 * The [open data portal of Madrid](https://datos.madrid.es/portal/site/egob/) (in Spanish, "Portal de datos abiertos del Ayuntamiento de Madrid").
 * [Map of the trees of Madrid](http://www-2.munimadrid.es/DGPVE_WUAUA/welcome.do) (in Spanish, "Un alcorque, un árbol. Madrid más verde"). It displays on a map data very similar to the dataset of trees that we shared above.
