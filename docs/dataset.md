@@ -10,9 +10,15 @@ We have prepared the following datasets:
 * [trees](trees)
 * [green areas](greenareas)
 * [administrative divisions of the city](administrativeunits)
-* ADD_MORE!
 
-TODO: Specify very well the data licenses here!!!
+All the data is provided from the Madrid City Council and you can find also on the [open data portal of Madrid](https://datos.madrid.es/portal/site/egob/).<br/>
+We reorganized the data in CSV and GeoJSON to help you to reduce your time to work.<br/>
+
+The data is open data and is licensed under these conditions<br/>
+*"The general conditions allow the reuse of documents for commercial and non-commercial purposes. Reuse is understood to be the use of documents held by the Madrid City Council, provided that such use does not constitute a public administrative activity."*
+<br/>
+More information <a href="https://translate.google.com/translate?hl=&sl=es&tl=en&u=https%3A%2F%2Fdatos.madrid.es%2Fportal%2Fsite%2Fegob%2Fmenuitem.400a817358ce98c34e937436a8a409a0%2F%3Fvgnextoid%3Db4c412b9ace9f310VgnVCM100000171f5a0aRCRD%26vgnextchannel%3Db4c412b9ace9f310VgnVCM100000171f5a0aRCRD%26vgnextfmt%3Ddefault">here</a>
+
 
 Some pointers to other resources where you might find more datasets or inspirations:
 * The [open data portal of Madrid](https://datos.madrid.es/portal/site/egob/) (in Spanish, "Portal de datos abiertos del Ayuntamiento de Madrid").
