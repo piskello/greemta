@@ -21,7 +21,8 @@ This is one of the most important datasets for our challenge.
 
 The dataset contains all the trees managed by the Municipality, excluding trees in parks and gardens, areas of property or areas of recent construction not yet received by the Municipality.
 <br/><br/>
-You can obtain the dataset in csv format with the coordinates in latitude and longitude by downloading the file [tress_madrid.zip](https://github.com/greemta/greemta/raw/main/data/green/trees_madrid.zip) (61Mb) (last update 15/11/2020).
+You can obtain the dataset in csv format with the coordinates in latitude and longitude by downloading the file
+* [trees_madrid.zip](https://github.com/greemta/greemta/raw/main/data/green/trees_madrid.zip) (61Mb) (last update 15/11/2020).
 
 
 You can also access the file from the ArcGIS Catalog via RestAPI from this end point [http://sigma.madrid.es/arcgismalla/rest/services/MTMOV](http://sigma.madrid.es/arcgismalla/rest/services/MTMOV)
@@ -29,8 +30,10 @@ You can also access the file from the ArcGIS Catalog via RestAPI from this end p
 The end-point [http://sigma.madrid.es/arcgismalla/rest/services/MTMOV/MPUAUA/FeatureServer](http://sigma.madrid.es/arcgismalla/rest/services/MTMOV/MPUAUA/FeatureServer) contains additional attributes
 
 The data is open data and is licensed under these conditions<br/>
+
 *"The general conditions allow the reuse of documents for commercial and non-commercial purposes. Reuse is understood to be the use of documents held by the Madrid City Council, provided that such use does not constitute a public administrative activity."*
 <br/>
+s
 More information <a href="https://translate.google.com/translate?hl=&sl=es&tl=en&u=https%3A%2F%2Fdatos.madrid.es%2Fportal%2Fsite%2Fegob%2Fmenuitem.400a817358ce98c34e937436a8a409a0%2F%3Fvgnextoid%3Db4c412b9ace9f310VgnVCM100000171f5a0aRCRD%26vgnextchannel%3Db4c412b9ace9f310VgnVCM100000171f5a0aRCRD%26vgnextfmt%3Ddefault">here</a>
 
 
