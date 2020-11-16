@@ -15,12 +15,13 @@ footer:
   copyright_text: 'website theme by zerostatic'
 
 seo:
-  meta_og_title: "Greemta"
+  meta_og_title: "Greemta challenge"
   meta_og_type: "website"
-  meta_og_url: "https://greemta.eu"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Greemta challenge"
-  meta_twitter_card: "summary"
+  meta_og_url: "https://challenge.greemta.eu"
+  meta_og_image: "https://challenge.greemta.eu/images/placeholder.png"
+  meta_og_description: "Greemta challenge - Help improving how Madrid manage its green spaces. And compete to WIN the first prize of 4.000 EUROS!"
+  meta_twitter_card: "Help improving how Madrid manage its green spaces.
+And compete to WIN the first prize of 4.000 EUROS!"
   meta_twitter_site: "@greemta"
   meta_twitter_creator: "@greemta"
 
