@@ -8,8 +8,9 @@ the green in the city also affects the climate.
 
 Several datasets on the subject are available on the open data portal of the Municipality of Madrid.
 
-* [climatic stations] ()
-* [meteorological data] ()
+* [climatic stations](https://github.com/greemta/greemta/raw/main/data/climate/climate_stations.csv)
+* [parameters of the climatic stations](https://raw.githubusercontent.com/greemta/greemta/main/data/climate/parameters_climatic_stations.csv)
+* [meteorological data](https://datos.madrid.es/sites/v/index.jsp?vgnextoid=8d7357cec5efa610VgnVCM1000001d4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD)
 
 
 The data is open data and is licensed under these conditions<br/>
