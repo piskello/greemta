@@ -19,8 +19,9 @@ We have extracted some of these datasets and created geojson files covering the 
 * [garden areas](https://github.com/greemta/greemta/raw/main/data/green/garden_areas.zip) (35Mb)<br/>
 original file: *11_zona_ajardinada_p.shp*<br/>
 description: *garden areas enclosure*
-* [garden courtyards areas](https://github.com/greemta/greemta/raw/main/data/green/garden_courtyards_areas.geojson)
-
+* [garden courtyards areas](https://github.com/greemta/greemta/raw/main/data/green/garden_courtyards_areas.geojson) (2,2Mb)<br/>
+original file: *11_zona_ajardinada_sobre_patio_p.shp*<br/>
+description: *garden area on courtyard*
 
 Attention:<br/>
 this data contains only the polygonal areas without any attributes
