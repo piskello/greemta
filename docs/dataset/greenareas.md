@@ -11,11 +11,13 @@ Among the cartographic data made available by the Municipality of Madrid there a
 
 You can find the resource on this page
 [Cartografía municipal por distritos a escala 1: 1000, SHP format, ETRS89](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=a4f36d34fa86c410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
-
-
+<br/>
+A description for each layer contained in the zip archives of each district,in spanish language, is available in the file [cartografia-distritos-1-1000.csv](https://datos.madrid.es/egob/catalogo/213565-0-cartografia-distritos-1-1000.csv)
+<br/><br/>
 We have extracted some of these datasets and created geojson files covering the whole territory.
--[green areas](https://github.com/greemta/greemta/raw/main/data/green/green_areas.zip)
-
+-[garden areas](https://github.com/greemta/greemta/raw/main/data/green/garden_areas.zip) (35Mb)<br/>
+original file: *11_zona_ajardinada_p.shp*<br/>
+description: *garden areas enclosure*
 
 Attention:<br/>
 this data contains only the polygonal areas without any attributes
