@@ -12,7 +12,7 @@ We have prepared the following datasets:
 
 Dataset as support for your investigations
 * [administrative divisions of the city](administrativeunits)
-* [infrastructures](infrastrucutures)
+* [infrastructures](infrastructures)
 * [statistic data](statisticsdata)
 
 
