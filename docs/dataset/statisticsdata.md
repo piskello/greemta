@@ -1,7 +1,7 @@
 ---
 title: Statics Data
 layout: page
-description: statistic data
+description: statistics data
 ---
 Statistical data is important to elaborate your products.
 
