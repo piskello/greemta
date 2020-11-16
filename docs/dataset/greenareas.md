@@ -16,7 +16,7 @@ The resource is a set of zip files (one for each district of Madrid) which each 
 A description for each layer contained in the zip archives of each district,in spanish language, is available in the file [cartografia-distritos-1-1000.csv](https://datos.madrid.es/egob/catalogo/213565-0-cartografia-distritos-1-1000.csv)
 <br/><br/>
 We have extracted some of these datasets and created geojson files covering the whole territory.
--[garden areas](https://github.com/greemta/greemta/raw/main/data/green/garden_areas.zip) (35Mb)<br/>
+* [garden areas](https://github.com/greemta/greemta/raw/main/data/green/garden_areas.zip) (35Mb)<br/>
 original file: *11_zona_ajardinada_p.shp*<br/>
 description: *garden areas enclosure*
 
