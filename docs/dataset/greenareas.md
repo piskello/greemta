@@ -3,7 +3,7 @@ title: Green Areas
 layout: page
 description: Green Areas
 ---
-Madrid is a very green city and the city is full of spaces.
+Madrid is a very green city.
 
 
 Among the cartographic data made available by the Municipality of Madrid there are the green areas for each district.

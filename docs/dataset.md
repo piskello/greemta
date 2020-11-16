@@ -12,7 +12,7 @@ We have prepared the following datasets:
 
 Dataset as support for your investigations
 * [administrative divisions of the city](administrativeunits)
-* [social demographics data](socialdemographicsdata)
+* [statics data](staticisdata)
 
 
 All the data is provided from the Madrid City Council and you can find also on the [open data portal of Madrid](https://datos.madrid.es/portal/site/egob/).<br/>
