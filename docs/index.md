@@ -2,7 +2,7 @@
 title: Greemta Challenge
 layout: home
 description: Help improving how Madrid manage its green spaces
-intro_image: "images/park2.svg"
+intro_image: "images/park3.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
