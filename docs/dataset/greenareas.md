@@ -9,9 +9,10 @@ Madrid is a very green city and the city is full of spaces.
 Among the cartographic data made available by the Municipality of Madrid there are the green areas for each district.
 
 
-You can find the resource on this page
+You can find the data on this page
 [Cartografía municipal por distritos a escala 1: 1000, SHP format, ETRS89](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=a4f36d34fa86c410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
 <br/>
+The resource is a set of zip files (one for each district of Madrid) which each contain several layers in ESRI Shapefile format.
 A description for each layer contained in the zip archives of each district,in spanish language, is available in the file [cartografia-distritos-1-1000.csv](https://datos.madrid.es/egob/catalogo/213565-0-cartografia-distritos-1-1000.csv)
 <br/><br/>
 We have extracted some of these datasets and created geojson files covering the whole territory.
