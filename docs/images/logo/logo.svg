@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="58.478386mm"
-   height="4.125843mm"
-   viewBox="0 0 58.478387 4.125843"
+   width="56.802692mm"
+   height="4.8520503mm"
+   viewBox="0 0 56.802693 4.8520502"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (1.0.1+r73)"
@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="46.992137"
-     inkscape:cy="127.22306"
+     inkscape:zoom="3.959798"
+     inkscape:cx="62.640674"
+     inkscape:cy="41.226266"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,19 +55,30 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-31.79437,-114.50556)">
+     transform="translate(-30.482898,-124.59527)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="31.535299"
-       y="118.57628"
+       x="30.223827"
+       y="129.22142"
        id="text12"><tspan
          sodipodi:role="line"
          id="tspan10"
-         x="31.535299"
-         y="118.57628"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#008000;stroke-width:0.264583">GREEMTA <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000"
-   id="tspan837">CHALLENGE</tspan></tspan></text>
+         x="30.223827"
+         y="129.22142"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#008000;stroke-width:0.264583"><tspan
+           style="fill:#66b883;fill-opacity:1"
+           id="tspan843">GREEM  A</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000"
+           id="tspan837">CHALLENGE</tspan></tspan></text>
+    <g
+       id="g1172"
+       transform="matrix(0.2318856,0,0,0.25263815,48.050817,129.33248)"
+       style="fill:#66b885;fill-opacity:1">
+      <path
+         d="m 15.845744,-15.804638 c -0.37063,0 -0.731464,0.04156 -1.070868,0.122187 -0.437368,-1.769888 -1.894581,-3.068518 -3.624257,-3.068518 -1.719879,0 -3.169337,1.283186 -3.61446,3.035813 -0.290218,-0.05882 -0.596152,-0.08948 -0.908003,-0.08948 -2.2201077,0 -4.018562,1.518929 -4.018562,3.393743 0,1.874814 1.7984543,3.3937421 4.018562,3.3937421 1.104135,0 2.104387,-0.375417 2.830137,-0.9843051 l 0.898206,1.0147381 0.0059,-0.0066 -0.557374,9.44788201 h 2.70258 l -0.356956,-6.04755301 1.104135,-1.023596 0.311851,-1.19166 -1.494358,0.883922 -0.121638,-2.068995 0.0059,0.0066 0.968822,-1.0933191 c 0.733505,0.6547651 1.769065,1.0628861 2.920345,1.0628861 2.220108,0 4.020399,-1.5189281 4.020399,-3.3937421 0,-1.874814 -1.800495,-3.393743 -4.020399,-3.393743 z m -4.689614,5.551085 -1.412313,-1.137834 c 0.371446,0.26345 0.889838,0.426971 1.463336,0.426971 0.412264,0 0.795956,-0.08403 1.11638,-0.229383 z"
+         id="path1155"
+         style="fill:#66b885;stroke-width:0.215295;fill-opacity:1" />
+    </g>
   </g>
 </svg>
