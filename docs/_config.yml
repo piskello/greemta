@@ -8,8 +8,8 @@ homepage:
   show_call_box: false
   tell_me_more: true
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
+  mobile: "images/logo/logo-mobile.png"
+  desktop: "images/logo/logo.png"
   desktop_height: "20px"
 footer:
   copyright_text: 'website theme by zerostatic'
